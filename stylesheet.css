@@ -206,6 +206,8 @@ img
   .logo{
     height:7vh;
     width:38vw;
+    padding:0px;
+    padding-left: 0px;
   }
   #homepage{
     display: flex;
